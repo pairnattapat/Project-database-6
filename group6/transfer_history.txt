@@ -1,0 +1,13 @@
+===Database perfectbanking
+
+== Table structure for table transfer_history
+
+|------
+|Column|Type|Null|Default
+|------
+|**USERNAME**|varchar(40)|No|
+|//**TRANSFER_TIME**//|timestamp|No|CURRENT_TIMESTAMP
+|TRANSFER_TARGET|varchar(13)|No|
+|TRANFER_AMOUNT|int(11)|No|
+== Dumping data for table transfer_history
+

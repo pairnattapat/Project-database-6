@@ -1,0 +1,12 @@
+===Database perfectbanking
+
+== Table structure for table withdraw_history
+
+|------
+|Column|Type|Null|Default
+|------
+|//**USERNAME**//|varchar(40)|No|
+|//**WITHDRAW_TIME**//|timestamp|No|CURRENT_TIMESTAMP
+|WITHDRAW_AMOUNT|double|No|
+== Dumping data for table withdraw_history
+

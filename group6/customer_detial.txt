@@ -1,0 +1,18 @@
+===Database perfectbanking
+
+== Table structure for table customer_detial
+
+|------
+|Column|Type|Null|Default
+|------
+|//**ID**//|varchar(13)|No|
+|FIRST_NAME|varchar(50)|No|
+|LAST_NAME|varchar(50)|No|
+|BIRTH_DATE|date|No|
+|ADDRESS|text|No|
+|TEL_NUMBER|varchar(10)|No|
+|EMAIL|varchar(60)|No|
+== Dumping data for table customer_detial
+
+|1000100010001|nattapat|pakakul|0000-00-00|-|0785968395|lop@gmail.com
+|1334333245156|Jeeradech|Sonkosa|1995-05-02|187 M.4 Maejedee, Wiangpapao, ChiangRai|0806718628|active228@live.com

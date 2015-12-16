@@ -1,0 +1,12 @@
+===Database perfectbanking
+
+== Table structure for table deposit_history
+
+|------
+|Column|Type|Null|Default
+|------
+|//**USERNAME**//|varchar(40)|No|
+|//**DEPOSIT_TIME**//|timestamp|No|CURRENT_TIMESTAMP
+|DEPOSIT_AMOUNT|double|No|
+== Dumping data for table deposit_history
+

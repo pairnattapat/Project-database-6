@@ -1,0 +1,15 @@
+===Database perfectbanking
+
+== Table structure for table user_account_detial
+
+|------
+|Column|Type|Null|Default
+|------
+|//**USERNAME**//|varchar(40)|No|
+|BALANCE|double|No|
+|FUND|int(11)|No|
+|FUND_PROFIT|int(11)|No|
+== Dumping data for table user_account_detial
+
+|12340|0|0|0
+|poo|5000|0|0

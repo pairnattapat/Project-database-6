@@ -1,0 +1,13 @@
+===Database perfectbanking
+
+== Table structure for table refilled_card
+
+|------
+|Column|Type|Null|Default
+|------
+|//**REFILLED_CARD_NUMBER**//|varchar(20)|No|
+|Amount|int(8)|No|
+|STATUS|tinyint(1)|No|
+|USERNAME|varchar(20)|No|
+== Dumping data for table refilled_card
+

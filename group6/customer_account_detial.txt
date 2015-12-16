@@ -1,0 +1,13 @@
+===Database perfectbanking
+
+== Table structure for table customer_account_detial
+
+|------
+|Column|Type|Null|Default
+|------
+|//**ACCOUNT_ID**//|varchar(9)|No|
+|BALANCE|double|No|
+|FUND|int(11)|No|
+|FUND_PROFIT|int(11)|No|
+== Dumping data for table customer_account_detial
+

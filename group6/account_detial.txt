@@ -1,0 +1,15 @@
+===Database perfectbanking
+
+== Table structure for table account_detial
+
+|------
+|Column|Type|Null|Default
+|------
+|//**ID**//|varchar(13)|No|
+|ACCOUNT_ID|varchar(9)|No|
+|BANK_COMPANY|varchar(40)|No|
+|CARD_NUMBER|varchar(16)|No|
+|CARD_EXPIRE_DATE|date|No|
+|SECURITY_CODE|varchar(3)|No|
+== Dumping data for table account_detial
+
